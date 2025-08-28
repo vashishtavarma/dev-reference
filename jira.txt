@@ -1,0 +1,9 @@
+Jira - Project Management & Issue Tracking Tool
+
+Jira is a project management platform used for:
+- Tracking bugs, tasks, and user stories
+- Agile project management (Scrum/Kanban)
+- Workflow automation and customization
+- Sprint planning and release management
+- Team collaboration and progress monitoring
+- Integration with development tools and CI/CD pipelines

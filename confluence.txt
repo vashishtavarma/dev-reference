@@ -1,0 +1,8 @@
+Confluence - Team Collaboration & Documentation Platform
+
+Confluence is a collaborative workspace platform used for:
+- Creating and sharing team documentation
+- Building knowledge bases and wikis
+- Project planning and meeting notes
+- Cross-team collaboration and information sharing
+- Centralized storage of company processes and procedures
