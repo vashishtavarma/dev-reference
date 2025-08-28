@@ -1,0 +1,9 @@
+Kubernetes - Container Orchestration Platform
+
+Kubernetes is a container orchestration system used for:
+- Automating deployment, scaling, and management of containerized applications
+- Load balancing and service discovery across container clusters
+- Managing storage and networking for distributed applications
+- Ensuring high availability and fault tolerance
+- Rolling updates and rollbacks of applications
+- Resource allocation and scheduling across multiple nodes
