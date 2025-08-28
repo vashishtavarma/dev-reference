@@ -1,0 +1,9 @@
+Docker - Containerization Platform
+
+Docker is a containerization platform used for:
+- Packaging applications and dependencies into containers
+- Ensuring consistent environments across development, testing, and production
+- Simplifying application deployment and scaling
+- Isolating applications for better security and resource management
+- Enabling microservices architecture
+- Streamlining CI/CD pipelines and DevOps workflows
