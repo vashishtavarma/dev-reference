@@ -1,0 +1,9 @@
+GitHub - Git Repository Hosting & Collaboration Platform
+
+GitHub is a web-based Git repository hosting service used for:
+- Version control and source code management
+- Collaborative software development and code sharing
+- Issue tracking and project management
+- Pull requests and code review workflows
+- Continuous integration and deployment (CI/CD)
+- Open source project hosting and community collaboration
