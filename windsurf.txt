@@ -1,0 +1,9 @@
+Windsurf - AI-Powered IDE by Codeium
+
+Windsurf is an intelligent development environment used for:
+- AI-assisted coding with advanced code completion
+- Natural language code generation and editing
+- Intelligent debugging and error detection
+- Seamless integration with development workflows
+- Enhanced productivity through AI-powered suggestions
+- Multi-language support with context-aware assistance
