@@ -4,13 +4,20 @@ A comprehensive reference guide for essential development tools and platforms.
 
 ## 📚 Tools Covered
 
-- **[Git](git.txt)** - Distributed Version Control System
-- **[GitHub](github.txt)** - Git Repository Hosting & Collaboration Platform  
-- **[Docker](docker.txt)** - Containerization Platform
-- **[Kubernetes](kubernetes.txt)** - Container Orchestration Platform
-- **[Jira](jira.txt)** - Project Management & Issue Tracking Tool
-- **[Confluence](confluence.txt)** - Team Collaboration & Documentation Platform
-- **[Windsurf](windsurf.txt)** - AI-Powered IDE by Codeium
+### Version Control
+- **[Git](version-control/git.txt)** - Distributed Version Control System
+- **[GitHub](version-control/github.txt)** - Git Repository Hosting & Collaboration Platform
+
+### Containerization
+- **[Docker](containerization/docker.txt)** - Containerization Platform
+- **[Kubernetes](containerization/kubernetes.txt)** - Container Orchestration Platform
+
+### Project Management
+- **[Jira](project-management/jira.txt)** - Project Management & Issue Tracking Tool
+- **[Confluence](project-management/confluence.txt)** - Team Collaboration & Documentation Platform
+
+### Development Tools
+- **[Windsurf](development-tools/windsurf.txt)** - AI-Powered IDE by Codeium
 
 ## 🚀 Purpose
 
@@ -28,5 +35,3 @@ Each tool has its own dedicated file with:
 Feel free to suggest improvements or add descriptions for additional development tools.
 
 ---
-
-*Last updated: August 2025*
