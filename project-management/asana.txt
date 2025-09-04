@@ -1,0 +1,26 @@
+Asana - Task & Project Management Platform
+
+## What is Asana?
+Asana is a web-based project management tool that helps teams organize, track, and manage their work and projects through tasks, projects, and team collaboration features.
+
+## Key Features
+- Task creation and assignment
+- Project timelines and Gantt charts
+- Team collaboration and comments
+- Custom fields and project templates
+- Progress tracking and reporting
+- Calendar and timeline views
+
+## Why Use Asana?
+- Intuitive interface for project organization
+- Flexible project views (list, board, timeline)
+- Strong team collaboration features
+- Integrates with popular business tools
+- Scales from small teams to enterprises
+
+## Common Use Cases
+- Sprint planning and task management
+- Marketing campaign coordination
+- Product roadmap planning
+- Team goal tracking and OKRs
+- Cross-functional project collaboration

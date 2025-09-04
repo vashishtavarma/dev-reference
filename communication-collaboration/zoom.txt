@@ -1,0 +1,26 @@
+Zoom - Video Conferencing & Webinar Platform
+
+## What is Zoom?
+Zoom is a cloud-based video conferencing platform that enables virtual meetings, webinars, and collaboration across devices and locations.
+
+## Key Features
+- HD video and audio conferencing
+- Screen sharing and annotation
+- Recording and transcription
+- Breakout rooms for group discussions
+- Webinar hosting capabilities
+- Mobile and desktop applications
+
+## Why Use Zoom?
+- Reliable video quality and connection
+- Easy-to-use interface for all users
+- Supports large-scale meetings and webinars
+- Cross-platform compatibility
+- Strong security features and encryption
+
+## Common Use Cases
+- Client meetings and presentations
+- All-hands company meetings
+- Training sessions and webinars
+- Remote interviews and onboarding
+- Virtual events and conferences

@@ -1,0 +1,26 @@
+Trello - Kanban-Style Project Board Platform
+
+## What is Trello?
+Trello is a visual project management tool that uses boards, lists, and cards to organize tasks and projects in a Kanban-style interface.
+
+## Key Features
+- Drag-and-drop card interface
+- Customizable boards and lists
+- Team collaboration and comments
+- Due dates and checklists
+- File attachments and labels
+- Power-ups for extended functionality
+
+## Why Use Trello?
+- Simple and intuitive visual interface
+- Great for agile and Kanban workflows
+- Easy team collaboration
+- Flexible for various project types
+- Free tier available for small teams
+
+## Common Use Cases
+- Agile development workflows
+- Content planning and editorial calendars
+- Personal task management
+- Team project tracking
+- Event planning and coordination

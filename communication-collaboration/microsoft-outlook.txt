@@ -1,0 +1,26 @@
+Microsoft Outlook - Email & Calendar Management
+
+## What is Microsoft Outlook?
+Microsoft Outlook is an email client and personal information manager that includes email, calendar, task management, and contact organization features.
+
+## Key Features
+- Email management with folders and rules
+- Calendar scheduling and meeting invitations
+- Contact management and address books
+- Task and to-do list organization
+- Integration with Microsoft Office suite
+- Mobile and web access
+
+## Why Use Microsoft Outlook?
+- Industry standard for corporate email
+- Seamless integration with Exchange servers
+- Advanced email organization and filtering
+- Unified calendar and scheduling system
+- Enterprise security and compliance features
+
+## Common Use Cases
+- Corporate email communication
+- Meeting scheduling and calendar management
+- Task tracking and reminders
+- Contact database management
+- Email automation and rules setup

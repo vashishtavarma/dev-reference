@@ -1,0 +1,26 @@
+Microsoft Teams - Video Conferencing, Chat & Collaboration Platform
+
+## What is Microsoft Teams?
+Microsoft Teams is a unified communication and collaboration platform that combines workplace chat, video meetings, file storage, and application integration.
+
+## Key Features
+- Video conferencing and screen sharing
+- Team chat and direct messaging
+- File sharing and collaboration
+- Integration with Microsoft Office suite
+- Third-party app integrations
+- Channels for organized team discussions
+
+## Why Use Microsoft Teams?
+- Centralized communication hub for teams
+- Seamless integration with Microsoft ecosystem
+- Supports remote and hybrid work models
+- Enterprise-grade security and compliance
+- Scalable for organizations of all sizes
+
+## Common Use Cases
+- Daily team standups and meetings
+- Project collaboration and file sharing
+- Company-wide announcements
+- Client meetings and presentations
+- Cross-functional team coordination
